@@ -1,0 +1,25 @@
+<mvc:View controllerName="jogovelha.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <VBox>
+                <HBox justifyContent="Center">
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                </HBox>
+                <HBox justifyContent="Center">
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                </HBox>
+                <HBox justifyContent="Center">
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                    <Image src="../img/Branco.png" class="sapUiTinyMarginEnd"/>
+                </HBox>
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>
